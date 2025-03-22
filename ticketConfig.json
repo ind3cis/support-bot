@@ -1,0 +1,16 @@
+{
+    "title": "Support Ticket",
+    "description": "Cliquez sur le bouton ci-dessous pour ouvrir un ticket.",
+    "buttonLabel": "Ouvrir un ticket",
+    "buttonEmoji": "📩",
+    
+    "moderatorRoles": ["123456789123456789"], 
+    "mentionRoles": ["987654321987654321"],
+    
+    "ticketCategoryId": "111222333444555666", 
+    "ticketChannelName": "ticket-{user}",
+  
+    "claimButtonLabel": "Claim",
+    "closeButtonLabel": "Fermer"
+  }
+  

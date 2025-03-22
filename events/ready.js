@@ -13,6 +13,7 @@ module.exports = {
     // Optionnel : Définir la présence
     client.user.setPresence({
       activities: [{ name: 'Création de tickets' }],
+      type: 'CUSTOM',
       status: 'online',
     });
 
